@@ -37,6 +37,6 @@ main()
 	
 	cout << "Nota Aluno 1 " << aluno[0][4];
 	cout << "Nota Aluno 2 " << aluno[1][4];
-	cout << "Nota Aluno 3 " << aluno[2[4];
-	cout << "Nota Aluno 4 " << aluno[3[4];
+	cout << "Nota Aluno 3 " << aluno[2][4];
+	cout << "Nota Aluno 4 " << aluno[3][4];
 }
